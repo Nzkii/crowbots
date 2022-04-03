@@ -1,0 +1,15 @@
+{
+
+    "login": { 
+        "type": "Premium",
+        "date": "hacking",
+        "key": "Apoo",
+        "token": "process.env.TOKEN"
+    },
+    "bot": { 
+        "owner1":"679688840625127531",
+        "owner2":"679688840625127531",
+        "owner": "679688840625127531",
+         "version": "Beta (v0.1)"
+    }
+}
